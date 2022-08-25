@@ -1,5 +1,122 @@
 * {
-    padding: 0;
-    margin: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
+body {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.cabecario-01 {
+  position: absolute;
+  width: 1280px;
+  height: 213px;
+  left: 0px;
+  top: 0px;
+  
+  background: #C4C4C4;
+}
+
+.Logo {
+position: absolute;
+width: 340px;
+height: 140px;
+left: 122px;
+top: 36px;
+max-width: 100%;
+max-height: 100%;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+border-radius: 36px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.logo2 {
+width: 400px;
+height: 350px;
+
+}
+
+.botao1 {
+box-sizing: border-box;
+position: absolute;
+width: 197px;
+height: 82px;
+left: 555px;
+top: 65px;
+background: #C4C4C4;
+border: 1px solid #000000;
+border-radius: 36px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.botao2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 197px;
+  height: 82px;
+  left: 779px;
+  top: 65px;
+  
+  background: #C4C4C4;
+  border: 1px solid #000000;
+  border-radius: 36px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.botao3 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 197px;
+  height: 82px;
+  left: 1003px;
+  top: 65px;
+  
+  background: #C4C4C4;
+  border: 1px solid #000000;
+  border-radius: 36px; 
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.caixapropaganda {
+  position: absolute;
+  width: 1280px;
+  height: 532px;
+  left: 0px;
+  top: 213px;
+  background: #9B9B9B;
+}
+
+.título {
+  position: absolute;
+  width: 380px;
+  height: 42px;
+  left: 123px;
+  top: 843px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  color: #000000;
+}
