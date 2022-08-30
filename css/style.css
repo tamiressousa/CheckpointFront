@@ -10,6 +10,7 @@ body {
   font-size: 24px;
   line-height: 28px;
   color:#000000;
+  
 }
 
 .cabecario-01 {
@@ -30,6 +31,7 @@ left: 122px;
 top: 36px;
 max-width: 100%;
 max-height: 100%;
+border: 1px solid #96b6d4;
 
 background: #e4f7f5;
 border-radius: 36px;
@@ -48,11 +50,12 @@ height: 290px;
 .botao1 {
 box-sizing: border-box;
 position: absolute;
+border: 1px solid #96b6d4;
+background: #2d92b9;
 width: 197px;
 height: 82px;
 left: 555px;
 top: 65px;
-background: #c3dde3;
 border-radius: 36px;
 
 display: flex;
@@ -69,7 +72,8 @@ justify-content: center;
   left: 779px;
   top: 65px;
   
-  background: #c3dde3;
+  border: 1px solid #96b6d4;
+  background: #2d92b9;
   border-radius: 36px;
 
 display: flex;
@@ -86,7 +90,8 @@ justify-content: center;
   left: 1003px;
   top: 65px;
   
-  background: #c3dde3;
+  border: 1px solid #96b6d4;
+  background: #2d92b9;
   border-radius: 36px; 
 
 display: flex;
