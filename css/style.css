@@ -120,3 +120,141 @@ justify-content: center;
   line-height: 42px;
   color: #000000;
 }
+
+.caixa1{
+  position: absolute;
+  width: 335px;
+  height: 534px;
+  left: 123px;
+  top: 922px;
+  
+  background: #C4C4C4;
+  border-radius: 31px;
+}
+
+.caixa2 {
+position: absolute;
+width: 335px;
+height: 534px;
+left: 494px;
+top: 922px;
+
+background: #C4C4C4;
+border-radius: 31px;
+}
+
+.caixa3 {
+  position: absolute;
+width: 335px;
+height: 534px;
+left: 865px;
+top: 922px;
+
+background: #C4C4C4;
+border-radius: 31px;
+}
+
+.título {
+  position: absolute;
+  width: 380px;
+  height: 42px;
+  left: 123px;
+  top: 843px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  
+  color: #000000;
+
+}
+
+.título2 {
+  position: absolute;
+  width: 92px;
+  height: 42px;
+  left: 123px;
+  top: 1596px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+.vídeo {
+  position: absolute;
+  width: 1077px;
+  height: 534px;
+  left: 123px;
+  top: 1675px;
+  
+  background: #C4C4C4;
+  border-radius: 31px;
+}
+
+.rodapegeral {
+position: absolute;
+width: 1280px;
+height: 414px;
+left: 0px;
+top: 2442px;
+
+background: #C4C4C4;
+}
+
+.título3 {
+  position: absolute;
+width: 217px;
+height: 75px;
+left: 76px;
+top: 2471px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.LinkedIn{
+position: absolute;
+width: 136px;
+height: 42px;
+left: 380px;
+top: 2735px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+}
+
+.GitHub {
+  position: absolute;
+width: 111px;
+height: 42px;
+left: 777px;
+top: 2735px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
