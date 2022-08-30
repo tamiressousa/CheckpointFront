@@ -9,7 +9,7 @@ body {
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
-  color: #000000;
+  color: #2d2d2d;
 }
 
 .cabecario-01 {
@@ -19,7 +19,7 @@ body {
   left: 0px;
   top: 0px;
   
-  background: #C4C4C4;
+  background: #2d92b9;
 }
 
 .Logo {
@@ -31,8 +31,7 @@ top: 36px;
 max-width: 100%;
 max-height: 100%;
 
-background: #C4C4C4;
-border: 1px solid #000000;
+background: #d4e1e3;
 border-radius: 36px;
 display: flex;
 align-items: center;
@@ -53,8 +52,7 @@ width: 197px;
 height: 82px;
 left: 555px;
 top: 65px;
-background: #C4C4C4;
-border: 1px solid #000000;
+background: #c3dde3;
 border-radius: 36px;
 
 display: flex;
@@ -71,8 +69,7 @@ justify-content: center;
   left: 779px;
   top: 65px;
   
-  background: #C4C4C4;
-  border: 1px solid #000000;
+  background: #c3dde3;
   border-radius: 36px;
 
 display: flex;
@@ -89,8 +86,7 @@ justify-content: center;
   left: 1003px;
   top: 65px;
   
-  background: #C4C4C4;
-  border: 1px solid #000000;
+  background: #c3dde3;
   border-radius: 36px; 
 
 display: flex;
@@ -203,7 +199,7 @@ height: 414px;
 left: 0px;
 top: 2442px;
 
-background: #C4C4C4;
+background: #2d92b9;
 }
 
 .título3 {
@@ -242,6 +238,16 @@ color: #000000;
 
 }
 
+.linkedInimagem {
+  position: absolute;
+  width: 141px;
+  height: 141px;
+  left: 378px;
+  top: 2570px;
+  
+  background: #fefcfc;
+  }
+
 .GitHub {
   position: absolute;
 width: 111px;
@@ -256,4 +262,14 @@ font-size: 36px;
 line-height: 42px;
 
 color: #000000;
+}
+
+.githubimagem {
+  position: absolute;
+width: 141px;
+height: 141px;
+left: 762px;
+top: 2570px;
+
+background: #f8f0f0;
 }
